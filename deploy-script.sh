@@ -15,5 +15,5 @@ cd ../backend
 npm install
 
 # start server
-npm start
+# npm start
 
