@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build":"cd backend && npm i && echo 'build step complete. #123'",
-    "start" : "cd backend && npm start"
+    "start" : "sh deploy-script.sh"
   },
   "keywords": [],
   "author": "",
